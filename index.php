@@ -7,8 +7,11 @@
 
     <body>
 
+        <h1>Gallecoord</h1>
+        <br>
         <a href="coordinates.php">Coordinates</a>
-        <a href="gallery.php">Coordinates</a>
+        <br>
+        <a href="gallery.php">Gallery</a>
 
     </body>
     
